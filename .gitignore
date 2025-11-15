@@ -1,0 +1,29 @@
+# IDE
+.vscode/
+.idea/
+
+# Compilação
+*.exe
+*.o
+*.obj
+*.out
+*.class
+*.dll
+*.so
+
+# Temporários
+*.log
+*.tmp
+*.swp
+*.swo
+
+# Backup
+*~
+*.bak
+
+# Builds
+build/
+dist/
+node_modules/
+
+# Arquivos específicos do projeto
